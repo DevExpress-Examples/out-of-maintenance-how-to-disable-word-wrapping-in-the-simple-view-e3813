@@ -4,7 +4,8 @@
 * [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
 
 <!-- default file list end -->
-# How to disable word wrapping in the Simple view
+# How to disable word wrapping in the Simple view and use the horizontal scroll bar to scroll a long text
+
 
 
 <p><strong>This example is obsolete. Starting with version 16.2.12, our RichEditControl supports horizontal auto-scrolling in disabled word wrap mode out of the box. Please refer to the <a href="https://supportcenter.devexpress.com/ticket/details/t552541/the-horizontal-scrollbar-incorrectly-operates-in-simpleview-when-the-simpleview-wordwrap">The horizontal scrollbar incorrectly operates in SimpleView when the SimpleView.WordWrap property is disabled</a> thread for more information.</strong></p>
