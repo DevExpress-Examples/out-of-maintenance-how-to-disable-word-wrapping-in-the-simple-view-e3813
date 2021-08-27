@@ -1,3 +1,8 @@
+<!-- default badges list -->
+![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128609987/16.2.12%2B)
+[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3813)
+[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+<!-- default badges end -->
 # How to disable word wrapping in the Simple view and use the horizontal scroll bar to scroll a long text
 
 <p><strong>This example is obsolete. Starting with version 16.2.12, our RichEditControl supports horizontal auto-scrolling in disabled word wrap mode out of the box. Please refer to the <a href="https://supportcenter.devexpress.com/ticket/details/t552541/the-horizontal-scrollbar-incorrectly-operates-in-simpleview-when-the-simpleview-wordwrap">The horizontal scrollbar incorrectly operates in SimpleView when the SimpleView.WordWrap property is disabled</a> thread for more information.</strong></p>
